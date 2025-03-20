@@ -1,5 +1,4 @@
-```markdown
-# 🚀 Cypress Login Tests - Automação de Testes com Cypress, Cucumber e JavaScript  
+# 🚀 Cypress Login Tests - Automação de Testes com Cypress, Cucumber e JavaScript
 
 Este repositório contém um projeto de automação de testes utilizando **Cypress**, **Cucumber** e **JavaScript**, aplicando o design pattern **Page Objects** para garantir um código mais organizado, reutilizável e de fácil manutenção.  
 
@@ -9,7 +8,7 @@ Este repositório contém um projeto de automação de testes utilizando **Cypre
 ✅ **JavaScript** para criar o código, personalizar e integrar as automações  
 ✅ **Page Objects** para separar a lógica da interface dos testes  
 ✅ **Inversão de Dependências** (em breve) para desacoplar e tornar o código mais flexível  
-```
+
 ## 📂 Estrutura do projeto  
 ```
 - e2e  
